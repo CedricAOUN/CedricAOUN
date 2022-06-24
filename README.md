@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Web/Python developper with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have some certificates under my belt. Programming is a passion for me, so I am confident in my ability to learn and adapt to most languages, technologies and software. My capabilities range from Python, Javascript, Wordpress... To softwares like Photoshop, Blender, Unity. 
+I'm a Web/Python developper with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates. Programming is a passion for me, so I can learn and adapt to most languages, technologies and software. My capabilities range from Python; Javascript; Wordpress; etc, to softwares like Photoshop, Blender, Unity. 
 
-Proffessional Experience:
+Profesional Experience:
 
 - Une Autre Histoire (http://une-autre-histoire.org/fr/)
 Description: General cleanup and relooking, as well as the addition of an Automatic translation system for new articles, so they are available in French and English. 
