@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Web/Python developper with some knoledge of C# and game developpement with Unity. I'm mostly self-educated, but I also have some certificates under my belt. Programming is a passion for me, so I am confident in my ability to learn and adapt to most languages, technologies and software. My capabilities range from Python, Javascript, Wordpress... To softwares like Photoshop, Blender, Unity. I wouldn't say I'm an expert at anything, however I can be if a project requires it. 
+I'm a Web/Python developper with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have some certificates under my belt. Programming is a passion for me, so I am confident in my ability to learn and adapt to most languages, technologies and software. My capabilities range from Python, Javascript, Wordpress... To softwares like Photoshop, Blender, Unity. I wouldn't say I'm an expert at anything, however I can be if a project requires it. 
 
 Proffessional Experience:
 
