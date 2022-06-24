@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Web/Python developper with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates in Web Development at CNAM University, Paris, as well as an online python course at GRETA METEHOR. Programming is a passion for me therefore I can learn and adapt to most languages, technologies, and software. My capabilities mainly range from Python, Javascript, Wordpress, to softwares like Photoshop, Blender, and Unity. 
+I'm a Web/Python developer with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates in Web Development at CNAM University, Paris, as well as an online python course at GRETA METEHOR. Programming is a passion for me therefore I can learn and adapt to most languages, technologies, and software. My capabilities mainly range from Python, Javascript, Wordpress, to softwares like Photoshop, Blender, and Unity. 
 
 Professional experience:
 
