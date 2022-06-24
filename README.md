@@ -19,12 +19,10 @@ I'm a Web/Python developper with some knoledge of C# and game developpement with
 
 Proffessional Experience:
 
-- Une Autre Histoire:
-URL: http://une-autre-histoire.org/fr/
+- Une Autre Histoire (http://une-autre-histoire.org/fr/)
 Description: General cleanup and relooking, as well as the addition of an Automatic translation system for new articles, so they are available in French and English. 
 
-- Mission Locale, Portes de la brie:
-URL: https://portesdelabrie.org/
+- Mission Locale, Portes de la brie (https://portesdelabrie.org/)
 Description: Full wordpress website, with a large number of functionalities such as a contact form, a job listing service, geolocatisation and more.
 
 
