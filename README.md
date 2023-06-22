@@ -25,6 +25,9 @@ Description: General cleanup and relooking, as well as the addition of an automa
 - Mission Locale, Portes de la brie (https://portesdelabrie.org/)
 Description: Full wordpress website, with a large number of functionalities such as a contact form, a job listing service, geolocatisation and more.
 
+- Standard Group LB (https://standardgrouplb.com/)
+Description: Bootstrap website with a contact us form, and project display
+
 
 Feel free to check out my projects or my CV via: https://cedricaoun.github.io/
 The source code is also available in the repository. 
