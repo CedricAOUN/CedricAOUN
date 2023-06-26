@@ -20,12 +20,15 @@ I'm a Web/Python developer with some knowledge of C# and game development with U
 Professional experience:
 
 - Une Autre Histoire (http://une-autre-histoire.org/fr/)
+  
 Description: General cleanup and relooking, as well as the addition of an automatic translation system for new articles so they are available in French and English. 
 
 - Mission Locale, Portes de la brie (https://portesdelabrie.org/)
+
 Description: Full wordpress website, with a large number of functionalities such as a contact form, a job listing service, geolocatisation and more.
 
 - Standard Group LB (https://standardgrouplb.com/)
+  
 Description: Bootstrap website with a contact us form, and project display
 
 
