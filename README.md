@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Web/Python developer with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates in Web Development at CNAM University, Paris, as well as an online python course at GRETA METEHOR. Programming is a passion for me therefore I can learn and adapt to most languages, technologies, and software. My capabilities mainly range from Python, Javascript, Wordpress, to software like Photoshop, Blender, and Unity. 
+I'm a Web/Python developer with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates in Web Development at CNAM University, Paris, as well as a python course at GRETA METEHOR. Programming is a passion for me therefore I can learn and adapt to most languages, technologies, and software. My capabilities are Python, Javascript, NodeJS, React, HTML, CSS, Wordpress
 
 # Professional experience:
 
@@ -31,6 +31,9 @@ Full wordpress website, with a large number of functionalities such as a contact
   
 Bootstrap website with a contact us form, and a project display
 
+
+
+
 # Projects:
 
 ## [React Job Board Application](https://github.com/CedricAOUN/react-job-board-ui) and [React Job Board Back-end](https://github.com/CedricAOUN/react-job-board-backend)
@@ -43,6 +46,7 @@ A full-stack NodeJS application that manages job offers, job applications, job s
 
   
 Full package list: [Front-End](https://github.com/CedricAOUN/react-job-board-ui/blob/main/package.json) , [Back-End](https://github.com/CedricAOUN/react-job-board-backend/blob/main/package.json)
+
 
 
 
