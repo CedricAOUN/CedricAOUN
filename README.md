@@ -1,21 +1,14 @@
 ## Hey! I'm Cedric Aoun👋
 
-<!--
-**CedricAOUN/CedricAOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Web/Python developer with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates in Web Development at CNAM University, Paris, as well as a python course at GRETA METEHOR. Programming is a passion for me therefore I can learn and adapt to most languages, technologies, and software. My capabilities, in no particular order, are:
+- HTML, CSS, JS
+- NodeJS, express, ReactJS, SocketIO, MaterialUI ...
+- jQuery
+- Bootstrap
+- Wordpress
+  
 
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a Web/Python developer with some knowledge of C# and game development with Unity. I'm mostly self-educated, but I also have certificates in Web Development at CNAM University, Paris, as well as a python course at GRETA METEHOR. Programming is a passion for me therefore I can learn and adapt to most languages, technologies, and software. My capabilities are Python, Javascript, NodeJS, React, HTML, CSS, Wordpress
 
 # Professional experience:
 
@@ -34,11 +27,11 @@ Bootstrap website with a contact us form, and a project display
 
 
 
-# Projects:
+# Notable Projects:
 
 ## [React Job Board Application](https://github.com/CedricAOUN/react-job-board-ui) and [React Job Board Back-end](https://github.com/CedricAOUN/react-job-board-backend)
-A full-stack NodeJS application that manages job offers, job applications, job searching, users, employers, CV upload.
-### Packages used:
+A full-stack NodeJS application that manages job offers, job applications, job searching, users, employers, CV upload, all in a fully responsive UI.
+### Tech used:
 - NodeJS
 - express
 - React
@@ -50,14 +43,22 @@ A full-stack NodeJS application that manages job offers, job applications, job s
 Full package lists: [Front-End](https://github.com/CedricAOUN/react-job-board-ui/blob/main/package.json) , [Back-End](https://github.com/CedricAOUN/react-job-board-backend/blob/main/package.json)
 
 ## ["Codenames" Multiplayer App](https://github.com/CedricAOUN/Codenames-nodeJS)
-A Front-End only multiplayer game web app based on a spy board game called "Codenames", it manages sockets, multiple players and teams, win and lose conditions.
-### Packages used:
+A Front-End multiplayer game web app based on a spy board game called "Codenames", it manages sockets, multiple players and teams, win and lose conditions.
+### Tech used:
 - NodeJS
 - express
 - SocketIO
 
   
 Full package list: [Front-End](https://github.com/CedricAOUN/Codenames-nodeJS/blob/master/package.json)
+
+## [Flutter "Rock, Paper, Scissors" App](https://github.com/CedricAOUN/flutter-RPS)
+Small Front-End "Rock, Paper, Scissors" project. Simple project to get familiar with Flutter mobile app developement. 
+### Tech used:
+- Flutter
+- Dart
+
+
 
 
 
