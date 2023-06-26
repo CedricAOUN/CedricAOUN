@@ -39,13 +39,25 @@ Bootstrap website with a contact us form, and a project display
 ## [React Job Board Application](https://github.com/CedricAOUN/react-job-board-ui) and [React Job Board Back-end](https://github.com/CedricAOUN/react-job-board-backend)
 A full-stack NodeJS application that manages job offers, job applications, job searching, users, employers, CV upload.
 ### Packages used:
+- NodeJS
+- express
 - React
 - MaterialUI
 - Axios
 - mySQL
 
   
-Full package list: [Front-End](https://github.com/CedricAOUN/react-job-board-ui/blob/main/package.json) , [Back-End](https://github.com/CedricAOUN/react-job-board-backend/blob/main/package.json)
+Full package lists: [Front-End](https://github.com/CedricAOUN/react-job-board-ui/blob/main/package.json) , [Back-End](https://github.com/CedricAOUN/react-job-board-backend/blob/main/package.json)
+
+## ["Codenames" Multiplayer App](https://github.com/CedricAOUN/Codenames-nodeJS)
+A Front-End only multiplayer game web app based on a spy board game called "Codenames", it manages sockets, multiple players and teams, win and lose conditions.
+### Packages used:
+- NodeJS
+- express
+- SocketIO
+
+  
+Full package list: [Front-End](https://github.com/CedricAOUN/Codenames-nodeJS/blob/master/package.json)
 
 
 
