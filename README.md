@@ -35,6 +35,7 @@ A full-stack NodeJS application that manages job offers, job applications, job s
 
 ### Tech used:
 
+- Docker
 - NodeJS
 - express
 - React
