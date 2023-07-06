@@ -10,6 +10,7 @@ Currently look for work, I'm a Web/Python developer with some knowledge of C# an
 - Bootstrap
 - MySQL(MySQL Workbench, WAMP), MongoDB
 - Wordpress
+- Docker
 
 You can contact me via: [cedric.j.aoun@gmail.com](mailto:cedric.j.aoun@gmail.com)
 
