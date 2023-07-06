@@ -10,6 +10,7 @@ Actuellement à la recherche d'un emploi, je suis un développeur Web/Python ave
 - Bootstrap
 - MySQL(MySQL Workbench, WAMP), MongoDB
 - Wordpress
+- Docker
 
 Vous pouvez me contacter via : [cedric.j.aoun@gmail.com](mailto:cedric.j.aoun@gmail.com)
 
@@ -35,6 +36,7 @@ Une application NodeJS FullStack qui gère les offres d'emploi, les demandes d'e
 
 ### Technologie utilisée :
 
+- Docker
 - NodeJS
 - express
 - React
