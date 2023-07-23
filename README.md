@@ -71,4 +71,7 @@ Front-End only luxury car rental project. It manages user orders, delivery dates
 - Stripe
 - Nominatim API, OpenRouteService API
 
+Full package list: (Packages)[https://github.com/CedricAOUN/angular-location-prestige/blob/main/package.json]
+
+
 Finally, although a bit out of date, you may also want to check out my [Website CV](https://cedricaoun.github.io/index.html) in french, and it's [repository](https://github.com/CedricAOUN/CedricAOUN.github.io).
