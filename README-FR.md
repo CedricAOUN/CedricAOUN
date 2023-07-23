@@ -71,7 +71,7 @@ Front-End uniquement, projet de location de voitures de luxe. Il gère les comma
 - Stripe
 - Nominatim API, OpenRouteService API
 
-Liste complète des packages: (Packages)[https://github.com/CedricAOUN/angular-location-prestige/blob/main/package.json]
+Liste complète des packages: [Packages](https://github.com/CedricAOUN/angular-location-prestige/blob/main/package.json)
 
 
 
