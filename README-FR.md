@@ -58,14 +58,20 @@ A Front-End multiplayer game web app based on a spy board game called "Codenames
 
 Liste complète des packages: [Front-End](https://github.com/CedricAOUN/Codenames-nodeJS/blob/master/package.json)
 
-## [Flutter "Rock, Paper, Scissors" App](https://github.com/CedricAOUN/flutter-RPS)
+## [Angular "Location Prestige" App](https://github.com/CedricAOUN/angular-location-prestige)
 
-Petit projet Front-End "Roche, Papier, Ciseaux". Projet simple pour se familiariser avec le développement d'une application mobile avec Flutter.
+Front-End uniquement, projet de location de voitures de luxe. Il gère les commandes des utilisateurs, les dates de livraison, et dispose d'une implémentation partielle de stripe. Une poignée d'API ont été utilisées.
 
 ### Technologie utilisée :
 
-- Flutter
-- Dart
+- Angular
+- SCSS
+- Angular Material
+- Leaflet, OpenStreetMap
+- Stripe
+- Nominatim API, OpenRouteService API
+
+Liste complète des packages: (Packages)[https://github.com/CedricAOUN/angular-location-prestige/blob/main/package.json]
 
 
 
